@@ -3,50 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\tp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MovieSimple/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MovieSimple/True/SqlTable/dbo.Genres.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\controllers\\genrecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:controllers\\genrecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\views\\genre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:views\\genre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\views\\genre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:views\\genre\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|c:\\users\\asus\\source\\repos\\tp2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F47F67-926B-42E2-A796-0ED38793AF19}|tp2.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,154 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Movies [Donn\u00E9es]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MovieSimple/True/SqlTable/dbo.Movies.sql",
-              "ToolTip": "dbo.Movies [Donn\u00E9es]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-20T16:18:20.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.Genres [Donn\u00E9es]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MovieSimple/True/SqlTable/dbo.Genres.sql",
-              "ToolTip": "dbo.Genres [Donn\u00E9es]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-20T16:18:07.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Models\\Movie.cs",
-              "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:46:37.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:31:20.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Models\\Genre.cs",
-              "RelativeToolTip": "Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:29:39.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwHcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:48:46.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\genre\\create.cshtml",
-              "RelativeDocumentMoniker": "Views\\genre\\create.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\genre\\create.cshtml",
-              "RelativeToolTip": "Views\\genre\\create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T13:58:32.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\genre\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\genre\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\genre\\Index.cshtml",
-              "RelativeToolTip": "Views\\genre\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T13:31:55.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\genre\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\genre\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\genre\\Edit.cshtml",
-              "RelativeToolTip": "Views\\genre\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T14:14:33.487Z",
+              "WhenOpened": "2025-04-09T10:13:16.316Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenreController1.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Controllers\\GenreController1.cs",
-              "RelativeDocumentMoniker": "Controllers\\GenreController1.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Controllers\\GenreController1.cs",
-              "RelativeToolTip": "Controllers\\GenreController1.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAiwF0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:12:10.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\genre\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\genre\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\Views\\genre\\Delete.cshtml",
-              "RelativeToolTip": "Views\\genre\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T14:38:49.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\tp2\\data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\tp2\\data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T15:14:43.807Z"
             }
           ]
         }
